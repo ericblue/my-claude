@@ -28,7 +28,7 @@ Generates images using OpenAI's `gpt-image-1.5` model. Supports a natural shorth
 
 ## Skills
 
-More advanced capabilities with dedicated scripts and configuration, designed for use with Claude Code or OpenClaw.
+More advanced capabilities with dedicated scripts and configuration, designed for use with Claude Code or OpenClaw. Some skills are used by both but should be interchangeable between the two.
 
 ### `searxng`
 
@@ -53,6 +53,7 @@ Additional skills and commands available in their own dedicated repos:
 - **[Mac Agent Gateway](https://github.com/ericblue/mac-agent-gateway)** — HTTP gateway for controlling macOS apps (Messages, Reminders, etc.) from Claude Code or other agents.
 - **[Claude VibeKanban](https://github.com/ericblue/claude-vibekanban)** — Kanban-style task management and parallel workflow orchestration for Claude Code.
 - **[Habit Sprint](https://github.com/ericblue/habit-sprint)** — Habit tracking and sprint-based goal management.
+- **[Claude OpenClaw Bridge](https://github.com/ericblue/claude-openclaw-bridge)** — Bridge skill for relaying tasks and queries between Claude Code and an OpenClaw agent.
 
 ## About
 
